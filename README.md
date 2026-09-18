@@ -125,3 +125,11 @@ The report includes:
 
 ### Customer Performance
 ![Customer Performance](Dashboard_Images/Customer.png)
+
+## 🚀 Try it out interactively!
+
+You can download the full Power BI report file to explore the interactive filters, data model, and DAX measures locally on your machine.
+
+👉 **[Download the Interactive .pbix File](PowerBI/Sales_Performance.pbix)**
+
+*(Note: You will need Microsoft Power BI Desktop installed to open this file.)*
