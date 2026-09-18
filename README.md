@@ -126,6 +126,8 @@ The report includes:
 ### Customer Performance
 ![Customer Performance](Dashboard_Images/Customer.png)
 
+📄 *[Download the Analysis Report (PDF)](Analysis/Dashboard_Analysis.pdf)* — Read key insights and recommendations.
+
 ## 🚀 Try it out interactively!
 
 You can download the full Power BI report file to explore the interactive filters, data model, and DAX measures locally on your machine.
